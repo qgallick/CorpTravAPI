@@ -1,0 +1,14 @@
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\bin\Debug\netcoreapp2.2\CorpTravAPI.deps.json
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\bin\Debug\netcoreapp2.2\CorpTravAPI.runtimeconfig.json
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\bin\Debug\netcoreapp2.2\CorpTravAPI.runtimeconfig.dev.json
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\bin\Debug\netcoreapp2.2\CorpTravAPI.dll
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\bin\Debug\netcoreapp2.2\CorpTravAPI.pdb
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\obj\Debug\netcoreapp2.2\CorpTravAPI.csprojAssemblyReference.cache
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\obj\Debug\netcoreapp2.2\CorpTravAPI.csproj.CoreCompileInputs.cache
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\obj\Debug\netcoreapp2.2\CorpTravAPI.RazorAssemblyInfo.cache
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\obj\Debug\netcoreapp2.2\CorpTravAPI.RazorAssemblyInfo.cs
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\obj\Debug\netcoreapp2.2\CorpTravAPI.AssemblyInfoInputs.cache
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\obj\Debug\netcoreapp2.2\CorpTravAPI.AssemblyInfo.cs
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\obj\Debug\netcoreapp2.2\CorpTravAPI.RazorTargetAssemblyInfo.cache
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\obj\Debug\netcoreapp2.2\CorpTravAPI.dll
+Q:\SourceCode\CorpTravAPI\CorpTravAPI\obj\Debug\netcoreapp2.2\CorpTravAPI.pdb
